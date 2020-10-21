@@ -1,5 +1,5 @@
-# Author
-Jeremy Perwira
+# Author & Tittle
+Jeremy Perwira ; Educational Purpose
 
 ## Installation // Instalasi
 Pastikan package sudah lengakap (node_module, package.json, dll).

@@ -1,2 +1,19 @@
-# project
-Sanbercode Final Exam
+# Author & Tittle
+Jeremy Perwira ; Educational Purpose
+
+## Installation // Instalasi
+Pastikan package sudah lengakap (node_module, package.json, dll).
+Jika belum yakin silahkan jalankan
+```bash
+npm install -g expo-cli // Untuk versi Expo
+npm install -g react-native // Untuk React Native CLI
+```
+Jangan Lupa untuk menambahkan package tambahan (React Native Navigation ,dll)
+
+## Usage // Penggunaan
+Folder ini bersifat public untuk latihan, pembelajaran, dan keperluan lainnya yang bersifat non-komersil 
+atau diluar project resmi.
+
+## Contribution // Kontribusi
+Apabila ingin berkontribusi silahkan ajukan "pull request" namun pastikan telah menyiapkan perubahaan yang
+diinginkan.

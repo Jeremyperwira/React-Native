@@ -5,7 +5,6 @@ Jeremy Perwira
 Pastikan package sudah lengakap (node_module, package.json, dll).
 Jika belum yakin silahkan jalankan
 ```bash
-npm install -g expo-cli // Untuk versi Expo
 npm install -g react-native // Untuk React Native CLI
 ```
 Jangan Lupa untuk menambahkan package tambahan (React Native Navigation ,dll)
